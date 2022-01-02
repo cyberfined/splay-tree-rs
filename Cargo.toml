@@ -1,0 +1,16 @@
+[package]
+name = "splay_tree"
+version = "0.1.0"
+edition = "2021"
+authors = ["cyberfined <cyberfined@protonmail.com>"]
+description = "Splay tree implementation in rust"
+license = "WTFPL"
+documentation = "https://docs.rs/splay-tree"
+readme = "README.md"
+categories = ["data-structures"]
+keywords = ["tree", "splay-tree", "splay_tree", "binary-tree", "binary-search-tree"]
+
+[features]
+recursive_debug = []
+
+[dependencies]
